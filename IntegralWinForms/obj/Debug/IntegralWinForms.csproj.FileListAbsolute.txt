@@ -1,0 +1,78 @@
+d:\MyDoc\Visual Studio 2010\Projects\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+d:\MyDoc\Visual Studio 2010\Projects\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+d:\MyDoc\Visual Studio 2010\Projects\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+d:\MyDoc\Visual Studio 2010\Projects\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+d:\MyDoc\Visual Studio 2010\Projects\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+d:\MyDoc\Visual Studio 2010\Projects\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+d:\MyDoc\Visual Studio 2010\Projects\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+d:\MyDoc\Visual Studio 2010\Projects\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+d:\MyDoc\Visual Studio 2010\Projects\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+Y:\Прогр. распр. и МП сист 1-46М\Лабораторные\Лабораторная 1\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+Y:\Прогр. распр. и МП сист 1-46М\Лабораторные\Лабораторная 1\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+Y:\Прогр. распр. и МП сист 1-46М\Лабораторные\Лабораторная 1\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+E:\ivtf1g46m\Malashenko\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+E:\ivtf1g46m\Malashenko\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+E:\ivtf1g46m\Malashenko\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+E:\ivtf1g46m\Malashenko\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+E:\ivtf1g46m\Malashenko\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+E:\ivtf1g46m\Malashenko\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+E:\ivtf1g46m\Malashenko\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+E:\ivtf1g46m\Malashenko\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+E:\ivtf1g46m\Malashenko\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+E:\ivtf1g46m\Новая папка\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+E:\ivtf1g46m\Новая папка\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+E:\ivtf1g46m\Новая папка\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+E:\ivtf1g46m\Новая папка\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+E:\ivtf1g46m\Новая папка\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+E:\ivtf1g46m\Новая папка\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+E:\ivtf1g46m\Новая папка\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+E:\ivtf1g46m\Новая папка\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+E:\ivtf1g46m\Новая папка\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+O:\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+O:\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+O:\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+O:\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+O:\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+O:\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+O:\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+O:\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+O:\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+Y:\Malashenko\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+Y:\Malashenko\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+Y:\Malashenko\3.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+E:\ivtf1g46m\Malashenko\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+E:\ivtf1g46m\Malashenko\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+E:\ivtf1g46m\Malashenko\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+E:\ivtf1g46m\Malashenko\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+E:\ivtf1g46m\Malashenko\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+E:\ivtf1g46m\Malashenko\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+E:\ivtf1g46m\Malashenko\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+E:\ivtf1g46m\Malashenko\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+E:\ivtf1g46m\Malashenko\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+O:\14.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+O:\14.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+O:\14.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+O:\14.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+O:\14.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+O:\14.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+O:\14.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+O:\14.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+O:\14.10\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+I:\Malashenko\ЛР Сергей\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+I:\Malashenko\ЛР Сергей\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+I:\Malashenko\ЛР Сергей\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+I:\Malashenko\ЛР Сергей\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+I:\Malashenko\ЛР Сергей\Расчет интеграла\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+I:\Malashenko\ЛР Сергей\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+I:\Malashenko\ЛР Сергей\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+I:\Malashenko\ЛР Сергей\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+I:\Malashenko\ЛР Сергей\Расчет интеграла\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
