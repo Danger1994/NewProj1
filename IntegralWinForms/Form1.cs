@@ -45,7 +45,7 @@ namespace IntegralWinForms
             long N = Convert.ToInt64(nudN.Text);
 
             Integral int1 = new Integral(a, b, N, SumIntegral);
-            double result=int1.Rectangle(out time);
+           double result=int1.Rectangle(out time);
             double result2 = int1.RectangleParallel(out time2);
             double result3 = int1.RectangleParallel2(out time3);
 
@@ -93,44 +93,44 @@ namespace IntegralWinForms
          for (int i = startN; i <= maxN; i+= 1000000)
             {
                 sw.Reset();
-                sw.Start();
+sw.Start();
 
                 double time;
-                Integral int2 = new Integral(a, b, i, SumIntegral);
-                double result = int2.Rectangle(out time);
-               
-                sw.Stop();
+                //Integral int2 = new Integral(a, b, i, SumIntegral);
+                // double result = int2.Rectangle(out time);
+
+                //     sw.Stop();
 
 
-                double t = sw.ElapsedMilliseconds;
+                //    double t = sw.ElapsedMilliseconds;
+
+                //     chart1.Series[0].Points.AddXY(i, t);
                 
-                chart1.Series[0].Points.AddXY(i, t);
-                
-            }
+          //  }
 
 
-            for (int i = startN; i <= maxN; i += 1000000)
-            {
-                sw2.Reset();
-                sw2.Start();
+          //  for (int i = startN; i <= maxN; i += 1000000)
+                //  {
+                //   sw2.Reset();
+                //   sw2.Start();
 
-                double time2;
-                Integral int2 = new Integral(a, b, i, SumIntegral);
-                double result2 = int2.RectangleParallel(out time2);
-      
-                sw2.Stop();
+                //    double time2;
+                //   Integral int2 = new Integral(a, b, i, SumIntegral);
+                //   double result2 = int2.RectangleParallel(out time2);
+
+                //  sw2.Stop();
 
 
-                double t = sw2.ElapsedMilliseconds;
+                //     double t = sw2.ElapsedMilliseconds;
 
-                
-                chart1.Series[1].Points.AddXY(i, t);
-            }
+
+                //    chart1.Series[1].Points.AddXY(i, t);
+          //  }
 
 
 
 
-        }
+       // }
 
         private void button1_Click(object sender, EventArgs e)
         {
