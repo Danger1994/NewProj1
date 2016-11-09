@@ -83,3 +83,5 @@ C:\Users\Danger\Desktop\Флешка\NewProj1\IntegralWinForms\obj\Debug\Integra
 C:\Users\Danger\Desktop\Флешка\NewProj1\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
 C:\Users\Danger\Desktop\Флешка\NewProj1\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
 C:\Users\Danger\Desktop\Флешка\NewProj1\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+C:\Users\Danger\Desktop\Флешка\NewProj1\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+C:\Users\Danger\Desktop\Флешка\NewProj1\IntegralWinForms\bin\Debug\IntegralWinForms.pdb

@@ -40,16 +40,16 @@ namespace IntegralWinForms
             double time;
             double time2;
             double time3;
-            double a=Convert.ToDouble(tbA.Text);
+            double a = Convert.ToDouble(tbA.Text);
             double b = Convert.ToDouble(tbB.Text);
             long N = Convert.ToInt64(nudN.Text);
 
             Integral int1 = new Integral(a, b, N, SumIntegral);
-           double result=int1.Rectangle(out time);
+            double result = int1.Rectangle(out time);
             double result2 = int1.RectangleParallel(out time2);
             double result3 = int1.RectangleParallel2(out time3);
 
-            rtbLog.AppendText("Otvet_posled:" + result.ToString()+Environment.NewLine);
+            rtbLog.AppendText("Otvet_posled:" + result.ToString() + Environment.NewLine);
             rtbLog.AppendText("Time_posled:" + time.ToString() + Environment.NewLine);
             rtbLog.AppendText("Otvet_parallel:" + result2.ToString() + Environment.NewLine);
             rtbLog.AppendText("Time_parallel:" + time2.ToString() + Environment.NewLine);
@@ -63,14 +63,15 @@ namespace IntegralWinForms
             chart2.Series[0].Points.AddY(time);
             chart2.Series[1].Points.AddY(time2);
             chart2.Series[2].Points.AddY(time3);
-            double[] res = new double [10000];
+            double[] res = new double[10000];
 
 
             chart3.Series[0].Points.Clear();
-            for (int i=1; i<=10; i++)
+            for (int i = 1; i <= 10; i++)
             {
-                res[i]=int1.RectangleParallel2(out time);
+                res[i] = int1.RectangleParallel2(out time);
                 chart3.Series[0].Points.AddXY(i, time);
+
             }
 
             DrawGraphs();
@@ -85,61 +86,90 @@ namespace IntegralWinForms
 
         public void DrawGraphs()
         {
-         int startN = 1000000;
-         int maxN = 10000000;
-         double a = 1, b = 10000;
-         Stopwatch sw = new Stopwatch();
-         Stopwatch sw2 = new Stopwatch();
-         for (int i = startN; i <= maxN; i+= 1000000)
+            int startN = 1;
+            int maxN = 10000000;
+            double a = 1, b = 10000;
+            Stopwatch sw = new Stopwatch();
+            Stopwatch sw2 = new Stopwatch();
+            for (int i = startN; i <= maxN; i += 1000000)
             {
                 sw.Reset();
-sw.Start();
+                sw.Start();
 
                 double time;
-                //Integral int2 = new Integral(a, b, i, SumIntegral);
-                // double result = int2.Rectangle(out time);
+                Integral int2 = new Integral(a, b, i, SumIntegral);
+                double result = int2.Rectangle(out time);
 
-                //     sw.Stop();
-
-
-                //    double t = sw.ElapsedMilliseconds;
-
-                //     chart1.Series[0].Points.AddXY(i, t);
-                
-          //  }
+                sw.Stop();
 
 
-          //  for (int i = startN; i <= maxN; i += 1000000)
-                //  {
-                //   sw2.Reset();
-                //   sw2.Start();
+                double t = sw.ElapsedMilliseconds;
 
-                //    double time2;
-                //   Integral int2 = new Integral(a, b, i, SumIntegral);
-                //   double result2 = int2.RectangleParallel(out time2);
+                chart1.Series[0].Points.AddXY(i, t);
 
-                //  sw2.Stop();
+            }
 
 
-                //     double t = sw2.ElapsedMilliseconds;
+            for (int i = startN; i <= maxN; i += 1000000)
+            {
+                sw2.Reset();
+                sw2.Start();
+
+                double time2;
+                Integral int2 = new Integral(a, b, i, SumIntegral);
+                double result2 = int2.RectangleParallel(out time2);
+
+                sw2.Stop();
 
 
-                //    chart1.Series[1].Points.AddXY(i, t);
-          //  }
+                double t = sw2.ElapsedMilliseconds;
+
+
+                chart1.Series[1].Points.AddXY(i, t);
+            }
 
 
 
-
-       // }
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
             rtbLog.Clear();
         }
 
-        private void chart2_Click(object sender, EventArgs e)
+        public void chart2_Click(object sender, EventArgs e)
         {
 
+        
+            
+        }
+
+        private void chart4_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i <= 1000; i++)
+            {
+                double n = new double();
+                n =10;
+                //double h = (b - a) / n;
+                double a = 1; double b = 1000;
+                double h = (b - a) / n;
+                Stopwatch sw = new Stopwatch();
+                Stopwatch sw1 = new Stopwatch();
+                sw.Reset();
+                sw.Start();
+                double time;
+                Integral int2 = new Integral(a, b, i, SumIntegral);
+                double result = int2.Rectangle(out time);
+
+                sw.Stop();
+                double t = sw1.ElapsedMilliseconds;
+
+                chart4.Series[0].Points.AddXY(t, h);
+
+
+
+            }
         }
     }
-}
+} 
+
