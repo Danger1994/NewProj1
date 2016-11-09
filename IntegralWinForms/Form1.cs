@@ -96,41 +96,41 @@ namespace IntegralWinForms
 sw.Start();
 
                 double time;
-                //Integral int2 = new Integral(a, b, i, SumIntegral);
-                // double result = int2.Rectangle(out time);
+                Integral int2 = new Integral(a, b, i, SumIntegral);
+                 double result = int2.Rectangle(out time);
 
-                //     sw.Stop();
+                     sw.Stop();
 
 
-                //    double t = sw.ElapsedMilliseconds;
+                   double t = sw.ElapsedMilliseconds;
 
-                //     chart1.Series[0].Points.AddXY(i, t);
+                     chart1.Series[0].Points.AddXY(i, t);
                 
-          //  }
+           }
 
 
-          //  for (int i = startN; i <= maxN; i += 1000000)
-                //  {
-                //   sw2.Reset();
-                //   sw2.Start();
+            for (int i = startN; i <= maxN; i += 1000000)
+                  {
+                   sw2.Reset();
+                   sw2.Start();
 
-                //    double time2;
-                //   Integral int2 = new Integral(a, b, i, SumIntegral);
-                //   double result2 = int2.RectangleParallel(out time2);
+                    double time2;
+                   Integral int2 = new Integral(a, b, i, SumIntegral);
+                   double result2 = int2.RectangleParallel(out time2);
 
-                //  sw2.Stop();
-
-
-                //     double t = sw2.ElapsedMilliseconds;
+                  sw2.Stop();
 
 
-                //    chart1.Series[1].Points.AddXY(i, t);
-          //  }
+                     double t = sw2.ElapsedMilliseconds;
+
+
+                    chart1.Series[1].Points.AddXY(i, t);
+            }
 
 
 
 
-       // }
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
